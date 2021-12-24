@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/elias/KiCAD Libraries/Keyboard/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/elias/KiCAD Libraries/Keyboard/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name KeyboardParts)(type Legacy)(uri ${KIPRJMOD}/KeyboardParts.lib)(options "")(descr ""))
+)
